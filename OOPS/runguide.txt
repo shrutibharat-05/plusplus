@@ -1,0 +1,2 @@
+1) g++ filename.cpp -> this creates a.exe file
+2) ./a.exe -> executes the file.
